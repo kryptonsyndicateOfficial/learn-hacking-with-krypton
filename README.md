@@ -5,9 +5,9 @@ A faceless digital brotherhood studying cybersecurity, ethical hacking, and codi
 
 ## 🚀 What You’ll Find Here
 - Learning Roadmaps
-- Tools & Scripts (for beginners)
+- Tools & Scripts
 - Notes from our study sessions
-- Challenges & labs (coming soon)
+- Challenges & labs
 
 ## 💡 Join the Mission
 We protect — not destroy. Learn. Code. Defend.
